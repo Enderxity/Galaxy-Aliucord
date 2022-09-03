@@ -1,0 +1,41 @@
+{
+    "manifest": {
+        "version": "1.0",
+        "name": "Galaxy",
+        "author": "Enderxity",
+        "license": "CC0 1.0"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/1014383243530875000\/1015458617912217620\/1.jpg",
+        "blur_radius": 0
+    },
+    "fonts": {
+        "*": ""
+    },
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 385875968,
+        "input_background": 1040187393,
+        "mention_highlight": 644254378,
+        "active_channel": 2120649386,
+        "accent": -12620395
+    },
+    "colors": {
+        "link": -6791757,
+        "primary_dark_300": -8413512,
+        "primary_dark_200": -3550506,
+        "primary_dark_400": -7827310,
+        "primary_dark_800": 385875968,
+        "uikit_btn_bg_color_selector_red": -7297352,
+        "uikit_settings_item_text_color_dark": -2499620
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_off_dark_24dp": -12620395,
+        "ic_sidebar_notifications_on_dark_24dp": -12620395,
+        "ic_sidebar_pins_off_dark_24dp": -12620395,
+        "ic_sidebar_pins_on_dark_24dp": -12620395,
+        "ic_sidebar_search_24dp": -12620395,
+        "ic_thread": -12620395
+    },
+    "raws": {}
+}
