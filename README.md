@@ -1,2 +1,3 @@
 # Galaxy-Aliucord
-Galaxy Theme For Aliucord 
+Beautiful Galaxy Theme For [Aliucord](https://GitHub.com/Aliucord/Aliucord
+
